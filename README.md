@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi, I'm Katrina! 🐱✨
 
-<!--
-**kateye31/kateye31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my little corner of GitHub ♡  
+I’m a **Computer Science student at the University of Central Florida** 🖥️🎓  
+I love learning new things, building cool projects, and (of course) cats 🐈💕
 
-Here are some ideas to get you started:
+### 🌸 About Me
+- 🐾 CS student @ **UCF**
+- 💻 Interested in coding, 3D-animation, and web development
+- 🎨 Artist who loves creating and expressing ideas through art
+- 🌱 Always learning and leveling up my skills
+- 🐱 Cat enthusiast (cat emojis are mandatory)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💖 Fun Stuff
+- ☕ Fueled by curiosity 
+- 🌙 Late-night coding hits different
+- ✨ Trying to make my code as cute as my README
+
+Thanks for stopping by! ฅ^•ﻌ•^ฅ 💕
+
