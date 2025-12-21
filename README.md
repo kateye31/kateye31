@@ -16,5 +16,8 @@ I love learning new things, building cool projects, and (of course) cats 🐈�
 - 🌙 Late-night coding hits different
 - ✨ Trying to make my code as cute as my README
 
+### ✨ My GitHub Stats (purr-formance check!)
+[![Katrina's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/kateye31/github-readme-stats)
+
 Thanks for stopping by! ฅ^•ﻌ•^ฅ 💕
 
