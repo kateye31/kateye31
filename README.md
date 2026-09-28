@@ -11,6 +11,10 @@ I love learning new things, building cool projects, and (of course) cats 🐈�
 - 🌱 Always learning and leveling up my skills
 - 🐱 Cat enthusiast (cat emojis are mandatory)
 
+### Hackathons
+- Knight Hacks (1st hackathon <:)
+- BloomKnights
+- ShellHacks
 ### 💖 Fun Stuff
 - ☕ Fueled by curiosity 
 - 🌙 Late-night coding hits different
